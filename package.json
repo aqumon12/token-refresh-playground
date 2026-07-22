@@ -1,0 +1,7 @@
+{
+  "name": "token-refresh-playground",
+  "private": true,
+  "scripts": {
+    "test": "pnpm -r run test"
+  }
+}
