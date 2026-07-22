@@ -1,5 +1,7 @@
 # token-refresh-playground
 
+[![CI](https://github.com/aqumon12/token-refresh-playground/actions/workflows/ci.yml/badge.svg)](https://github.com/aqumon12/token-refresh-playground/actions/workflows/ci.yml)
+
 실무(하이브리드 WebView 앱)에서 겪은 **액세스 토큰 무한 재요청 루프**를 해결하며 정리한
 single-flight 토큰 재발급 패턴을, NestJS 서버까지 포함해 처음부터 재구현하고 테스트로 증명한 저장소입니다.
 
